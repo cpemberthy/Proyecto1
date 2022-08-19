@@ -1,0 +1,1 @@
+Prueba para crear un nuevo archivo desde la linea de comandos.
